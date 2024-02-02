@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/final_mongodb_webapi.props" />
+</Project>
